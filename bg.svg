@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 900 1800" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="Layer-1" vectornator:layerName="Layer 1">
+<path d="M0 600L900 600L900 600L900 1200L900 1200L0 1200L0 1200L0 600L0 600Z" fill="#0a3660" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M0 0L900 0L900 0L900 600L900 600L0 600L0 600L0 0L0 0Z" fill="#0a3660" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M500 600C500 542.759 500 100 900 100L900 600L500 600Z" fill="#c7b13b" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M500 600C500 657.241 500 1100 900 1100L900 600L500 600Z" fill="#c7b13b" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M4.44089e-16 1200L900 1200L900 1200L900 1800L900 1800L4.44089e-16 1800L4.44089e-16 1800L4.44089e-16 1200L4.44089e-16 1200Z" fill="#0a3660" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M0 1250.03C79.6696 1249.81 159.338 1249.69 210.53 1291.84C261.609 1333.99 284.097 1418.51 326.022 1474C367.947 1529.48 429.197 1555.92 469.766 1605.41C510.335 1654.91 530.223 1727.45 550 1800L0 1800L0 1250.03Z" fill="#c7b13b" fill-rule="nonzero" opacity="1" stroke="none"/>
+</g>
+</svg>
